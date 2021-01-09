@@ -32,7 +32,7 @@ async fn main() -> anyhow::Result<()> {
     let worker = Arc::new(worker::SyncWorker::new(
         client,
         "default",
-        "docker-registry",
+        "docker-registry-configs",
     ));
 
     let watch_ns = worker.clone();
