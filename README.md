@@ -1,3 +1,4 @@
+![AppVeyor](https://img.shields.io/appveyor/build/yahaa/imagepullsecret-sync)
 # imagepullsecret-sync
 Using kubernetes rust client [kube-rs](https://github.com/clux/kube-rs) to write an imagepullsecret sync tool.
 
