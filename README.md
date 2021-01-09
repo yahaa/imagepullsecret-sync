@@ -1,5 +1,5 @@
 # imagepullsecret-sync
-Using kubernetes rust client [kube-rs](https://github.com/clux/kube-rs) to write an imagepullsecret sync worker.
+Using kubernetes rust client [kube-rs](https://github.com/clux/kube-rs) to write an imagepullsecret sync tool.
 
 ### Create secret
 ```bash
